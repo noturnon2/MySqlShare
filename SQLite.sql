@@ -1,0 +1,1 @@
+INSERT INTO Exemplo (cpf, nome, sobrenome, endereço) VALUES(00012345678,'Maria','DB','Rua dos correios');
